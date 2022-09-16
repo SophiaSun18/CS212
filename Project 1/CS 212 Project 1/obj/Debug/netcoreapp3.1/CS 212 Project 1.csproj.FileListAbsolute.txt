@@ -1,0 +1,14 @@
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\obj\Debug\netcoreapp3.1\CS 212 Project 1.csproj.AssemblyReference.cache
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\obj\Debug\netcoreapp3.1\CS 212 Project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\obj\Debug\netcoreapp3.1\CS 212 Project 1.AssemblyInfoInputs.cache
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\obj\Debug\netcoreapp3.1\CS 212 Project 1.AssemblyInfo.cs
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\obj\Debug\netcoreapp3.1\CS 212 Project 1.csproj.CoreCompileInputs.cache
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\bin\Debug\netcoreapp3.1\CS 212 Project 1.exe
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\bin\Debug\netcoreapp3.1\CS 212 Project 1.deps.json
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\bin\Debug\netcoreapp3.1\CS 212 Project 1.runtimeconfig.json
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\bin\Debug\netcoreapp3.1\CS 212 Project 1.runtimeconfig.dev.json
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\bin\Debug\netcoreapp3.1\CS 212 Project 1.dll
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\bin\Debug\netcoreapp3.1\CS 212 Project 1.pdb
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\obj\Debug\netcoreapp3.1\CS 212 Project 1.dll
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\obj\Debug\netcoreapp3.1\CS 212 Project 1.pdb
+C:\Users\zs35\Desktop\CS 212 Project 1\CS 212 Project 1\obj\Debug\netcoreapp3.1\CS 212 Project 1.genruntimeconfig.cache
