@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E5EDEB78-605A-46B3-8C76-0736AAC1FB2B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project 3/MainWindow.xaml.cs">
+    <Files>
+      <File FileName="Project 3/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Project 3/App.xaml" Line="10" Column="1" />
+      <File FileName="Project 3/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Project 3/MainWindow.xaml" Line="1" Column="1" />
+      <File FileName="Project 3/MainWindow.xaml.cs" Line="10" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project 3" expanded="True">
+            <Node name="Project 3" expanded="True">
+              <Node name="MainWindow.xaml.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Project_2203 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

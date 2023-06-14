@@ -1,0 +1,19 @@
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.exe
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.deps.json
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.runtimeconfig.json
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.runtimeconfig.dev.json
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.dll
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\bin\Debug\netcoreapp3.1\Project 2.pdb
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.csproj.AssemblyReference.cache
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2_MarkupCompile.cache
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.g.resources
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.AssemblyInfoInputs.cache
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.AssemblyInfo.cs
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.dll
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.pdb
+C:\Users\zs35\OneDrive - Calvin University\CS212\Project 2\Project 2\Project 2\obj\Debug\netcoreapp3.1\Project 2.genruntimeconfig.cache
